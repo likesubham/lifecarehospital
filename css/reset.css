@@ -1,0 +1,81 @@
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+ .header {
+    background-color: transparent;
+       top: -66px;
+}
+.bot-icon span{ padding-top:20px;}
+.appoint li{padding-right:60px;}
+.header li a{margin-bottom:5px;}
+.header .menu{padding-left:0px;}
+.header .menu-icon{margin-bottom:-55px;}
+.container{width:100%;}
+.col3{float:none; width:100%; text-align:center;}
+.col4{float:none; width:100%;}
+.logo{text-align:center; float:left; padding:10px 0;}
+.head-info{text-align:center; padding:0px; margin:5px 0;}
+.head-info span{padding-right:0px;}
+.head-info a{margin-top:5px; margin-bottom:5px;}
+.welcome-content h1{margin:0; padding-top:20px; font-size:30px;}
+.welcome-content h4{margin:0; padding:10px 10px 20px; font-size:18px;}
+.welcome-content p{font-size:12px;}
+.read{margin:20px 0 30px;}
+.welcome-content a{padding:10px; font-size:12px;}
+.exper-content{margin:20px 0;}
+.exper-content h1{font-size:30px;}
+.exper-content h4{margin-bottom:30px; font-size:16px;}
+.profess h2{padding:10px 0 20px 0; font-size:20px;}
+.profess p{padding:5px 0; font-size:12px;}
+.profess a{padding:10px; font-size:12px;}
+.team-content{margin:20px 0;}
+.team-content h1{font-size:38px;}
+.team-content p{padding:10px; margin-bottom:10px;}
+.mednews-content{margin:20px 0;}
+.mednews-content h1{font-size:38px;}
+.mednews-content h3{margin-bottom:10px; padding:10px; font-size:16px;}
+.saying-content{margin-top:30px;}
+.saying-content h1{font-size:38px;}
+.saying-content h4{margin-bottom:10px; padding:10px; font-size:16px;}
+.saying-content p{font-size:13px; line-height:24px;}
+.saying-content h3{font-size:18px;}
+.saying-content h5{font-size:14px;}
+.burns{padding:10px;}
+.nxt-dis{padding:20px;}
+.bottom-bg{padding:20px;}
+.make{margin-bottom:10px;}
+.make h3{padding-bottom:20px; font-size:20px; margin-top:20px;}
+.make p{padding-bottom:20px; font-size:14px;}
+.aspirin img{padding:20px 20px 20px 0;}
+.aspirin h6{text-align:left;}
+.aspirin p{text-align:left;}
+.strok{margin-bottom:20px;}
+.strok img{padding:20px 20px 20px 0;}
+.strok h6{text-align:left;}
+.strok p{text-align:left;}
+.link{margin-bottom:20px;}
+.link h3{padding-bottom:20px; font-size:20px;}
+.link p{padding-bottom:20px; font-size:14px;}
+.bot-icon h5{margin:0; padding-top:20px; font-size:10px;}
+.head-info{display:none;}
+
+
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
